@@ -12,4 +12,3 @@ Objectif
 
 Écrire un programme Python qui demande à l'utilisateur de saisir deux nombres, puis calcule et affiche la somme de ces deux nombres.
 
-Instructions
